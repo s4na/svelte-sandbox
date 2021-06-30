@@ -1,8 +1,19 @@
 https://svelte.jp/
 
-```
-npx degit sveltejs/template .
+## インストール
 
-npm install
-npm run dev
+```
+yarn
+```
+
+## テスト
+
+```
+yarn test
+```
+
+## Lint
+
+```
+yarn eslint
 ```
